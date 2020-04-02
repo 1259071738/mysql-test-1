@@ -1,3 +1,5 @@
+姓名：刘飞虎
+学号：17061518
 ## 题目1：建立一个mysql database, 包含以下两张表：
 ~~~sql
 mysql> show databases;
