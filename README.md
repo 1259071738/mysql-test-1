@@ -14,7 +14,7 @@ mysql> show databases;
 4 rows in set (0.17 sec)
 ~~~
 ## 题目2：如何join两张表
-
+![](img_https://github.com/1259071738/mysql-test-1/blob/master/sun.jpg)
 ## 题目3： xxxx
 
 ## 题目4： xxxx
